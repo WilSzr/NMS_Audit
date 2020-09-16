@@ -1,0 +1,1 @@
+curl -u admin:admin123 -k -H Content-Type: application/json -d{"query":"SELECT IPAddress, DNS, SysName, Vendor, MachineType FROM Orion.Nodes"} --url https://10.33.158.246:17778/SolarWinds/InformationService/v3/Json/Query -v | python -m jason.tool

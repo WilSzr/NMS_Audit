@@ -1,0 +1,1600 @@
+{
+    "results": [
+        {
+            "DNS": "NCYS0234.emea.amersports.int",
+            "IPAddress": "10.33.158.246",
+            "MachineType": "Windows 2016 Server",
+            "SysName": "NCYS0234",
+            "Vendor": "Windows"
+        },
+        {
+            "DNS": "",
+            "IPAddress": "10.33.64.1",
+            "MachineType": "Cisco Catalyst 36xx stack-able ethernet switch",
+            "SysName": "LYSx0005-swt.emea.amersports.int",
+            "Vendor": "Cisco"
+        },
+        {
+            "DNS": "",
+            "IPAddress": "10.33.64.6",
+            "MachineType": "Cisco Catalyst 29xxStack",
+            "SysName": "LYSx0006-swt.emea.amersports.int",
+            "Vendor": "Cisco"
+        },
+        {
+            "DNS": "",
+            "IPAddress": "10.33.159.17",
+            "MachineType": "Cisco Catalyst 29xxStack",
+            "SysName": "NCYx0307-swt.emea.amersports.int",
+            "Vendor": "Cisco"
+        },
+        {
+            "DNS": "",
+            "IPAddress": "10.33.159.1",
+            "MachineType": "Cisco Catalyst 68xx Virtual Switch",
+            "SysName": "NCYx0005-swt.emea.amersports.int",
+            "Vendor": "Cisco"
+        },
+        {
+            "DNS": "",
+            "IPAddress": "10.33.159.13",
+            "MachineType": "Cisco Catalyst 29xxStack",
+            "SysName": "NCYx0003-swt.emea.amersports.int",
+            "Vendor": "Cisco"
+        },
+        {
+            "DNS": "",
+            "IPAddress": "10.33.159.20",
+            "MachineType": "Cisco Catalyst 29xxStack",
+            "SysName": "NCYx0210-swt.emea.amersports.int",
+            "Vendor": "Cisco"
+        },
+        {
+            "DNS": "",
+            "IPAddress": "10.33.159.21",
+            "MachineType": "Cisco Catalyst 29xxStack",
+            "SysName": "NCYx0036-swt.emea.amersports.int",
+            "Vendor": "Cisco"
+        },
+        {
+            "DNS": "",
+            "IPAddress": "10.33.159.22",
+            "MachineType": "Cisco Catalyst 29xxStack",
+            "SysName": "NCYx0038-swt.emea.amersports.int",
+            "Vendor": "Cisco"
+        },
+        {
+            "DNS": "",
+            "IPAddress": "10.33.159.27",
+            "MachineType": "Cisco Catalyst 29xxStack",
+            "SysName": "NCYx0042-swt.emea.amersports.int",
+            "Vendor": "Cisco"
+        },
+        {
+            "DNS": "",
+            "IPAddress": "10.33.159.28",
+            "MachineType": "Cisco Catalyst 29xxStack",
+            "SysName": "NCYx0041-swt.emea.amersports.com",
+            "Vendor": "Cisco"
+        },
+        {
+            "DNS": "",
+            "IPAddress": "10.33.159.29",
+            "MachineType": "Cisco Catalyst 29xxStack",
+            "SysName": "NCYX0043-swt.emea.amersports.int",
+            "Vendor": "Cisco"
+        },
+        {
+            "DNS": "",
+            "IPAddress": "10.33.159.30",
+            "MachineType": "Cisco Catalyst 29xxStack",
+            "SysName": "NCYx0044-swt.emea.amersports.int",
+            "Vendor": "Cisco"
+        },
+        {
+            "DNS": "",
+            "IPAddress": "10.33.159.31",
+            "MachineType": "Cisco Catalyst 29xxStack",
+            "SysName": "NCYx0045-swt.emea.amersports.int",
+            "Vendor": "Cisco"
+        },
+        {
+            "DNS": "",
+            "IPAddress": "10.33.159.42",
+            "MachineType": "Cisco 5500 Series Wireless Controller",
+            "SysName": "NCYX0182",
+            "Vendor": "Cisco"
+        },
+        {
+            "DNS": "mucx0045.emea.amersports.int",
+            "IPAddress": "10.49.64.1",
+            "MachineType": "Cisco Catalyst 38xx stack",
+            "SysName": "MUCx0045-swt.emea.amersports.int",
+            "Vendor": "Cisco"
+        },
+        {
+            "DNS": "",
+            "IPAddress": "10.49.64.2",
+            "MachineType": "Catalyst 37xx Stack",
+            "SysName": "MUCx0046-swt.emea.amersports.int",
+            "Vendor": "Cisco"
+        },
+        {
+            "DNS": "",
+            "IPAddress": "10.49.64.3",
+            "MachineType": "Cisco Catalyst 29xxStack",
+            "SysName": "MUCx0047-swt.emea.amersports.int",
+            "Vendor": "Cisco"
+        },
+        {
+            "DNS": "",
+            "IPAddress": "10.49.64.4",
+            "MachineType": "Cisco Catalyst 29xxStack",
+            "SysName": "MUCx0048-swt.emea.amersports.int",
+            "Vendor": "Cisco"
+        },
+        {
+            "DNS": "",
+            "IPAddress": "10.49.64.6",
+            "MachineType": "Catalyst 37xx Stack",
+            "SysName": "MUCx0060-swt.emea.amersports.int",
+            "Vendor": "Cisco"
+        },
+        {
+            "DNS": "mucx9000_svc_cluster.emea.amersports.int",
+            "IPAddress": "10.49.64.7",
+            "MachineType": "Catalyst 37xx Stack",
+            "SysName": "MUCx0061-swt.emea.amersports.int",
+            "Vendor": "Cisco"
+        },
+        {
+            "DNS": "mucx9001_svc_node1.emea.amersports.int",
+            "IPAddress": "10.49.64.8",
+            "MachineType": "Cisco Catalyst 29xxStack",
+            "SysName": "MUCx0049-swt.emea.amersports.int",
+            "Vendor": "Cisco"
+        },
+        {
+            "DNS": "",
+            "IPAddress": "10.49.64.10",
+            "MachineType": "Cisco 5500 Series Wireless Controller",
+            "SysName": "MUCX2000",
+            "Vendor": "Cisco"
+        },
+        {
+            "DNS": "lhrx0003.emea.amersports.int",
+            "IPAddress": "10.44.24.1",
+            "MachineType": "Cisco Catalyst 38xx stack",
+            "SysName": "LHRx0001-swt.emea.amersports.int",
+            "Vendor": "Cisco"
+        },
+        {
+            "DNS": "",
+            "IPAddress": "10.44.24.2",
+            "MachineType": "Cisco Catalyst 29xxStack",
+            "SysName": "LHRx0002-swt.emea.amersports.int",
+            "Vendor": "Cisco"
+        },
+        {
+            "DNS": "",
+            "IPAddress": "10.44.24.3",
+            "MachineType": "Cisco Catalyst 29xxStack",
+            "SysName": "LHRx0003-swt.emea.amersports.int",
+            "Vendor": "Cisco"
+        },
+        {
+            "DNS": "",
+            "IPAddress": "10.44.14.1",
+            "MachineType": "Cisco Catalyst 36xx stack-able ethernet switch",
+            "SysName": "IRVx0001-swt.emea.amersports.int",
+            "Vendor": "Cisco"
+        },
+        {
+            "DNS": "",
+            "IPAddress": "10.44.14.2",
+            "MachineType": "Cisco Catalyst 29xxStack",
+            "SysName": "IRVx0002-swt.emea.amersports.int",
+            "Vendor": "Cisco"
+        },
+        {
+            "DNS": "",
+            "IPAddress": "10.44.14.3",
+            "MachineType": "Cisco Catalyst 29xxStack",
+            "SysName": "IRVx0003-swt.emea.amersports.int",
+            "Vendor": "Cisco"
+        },
+        {
+            "DNS": "",
+            "IPAddress": "10.35.10.1",
+            "MachineType": "Cisco Catalyst 4500 L3",
+            "SysName": "VAAx0001-swt.emea.amersports.int",
+            "Vendor": "Cisco"
+        },
+        {
+            "DNS": "",
+            "IPAddress": "10.35.10.2",
+            "MachineType": "Cisco Catalyst 29xxStack",
+            "SysName": "VAAx0002-swt.emea.amersports.int",
+            "Vendor": "Cisco"
+        },
+        {
+            "DNS": "",
+            "IPAddress": "10.35.10.3",
+            "MachineType": "Cisco Catalyst 29xxStack",
+            "SysName": "VAAx0003-swt.emea.amersports.int",
+            "Vendor": "Cisco"
+        },
+        {
+            "DNS": "",
+            "IPAddress": "10.35.10.4",
+            "MachineType": "Cisco Catalyst 29xxStack",
+            "SysName": "VAAx0004-swt.emea.amersports.int",
+            "Vendor": "Cisco"
+        },
+        {
+            "DNS": "",
+            "IPAddress": "10.35.10.5",
+            "MachineType": "Cisco Catalyst 29xxStack",
+            "SysName": "VAAx0005-swt.emea.amersports.int",
+            "Vendor": "Cisco"
+        },
+        {
+            "DNS": "",
+            "IPAddress": "10.35.10.6",
+            "MachineType": "Cisco Catalyst 29xxStack",
+            "SysName": "VAAx0006-swt.emea.amersports.int",
+            "Vendor": "Cisco"
+        },
+        {
+            "DNS": "",
+            "IPAddress": "10.35.10.7",
+            "MachineType": "Cisco Catalyst 29xxStack",
+            "SysName": "VAAx0007-swt.emea.amersports.int",
+            "Vendor": "Cisco"
+        },
+        {
+            "DNS": "",
+            "IPAddress": "10.35.10.8",
+            "MachineType": "Cisco Catalyst 29xxStack",
+            "SysName": "VAAx0008-swt.emea.amersports.int",
+            "Vendor": "Cisco"
+        },
+        {
+            "DNS": "",
+            "IPAddress": "10.35.10.10",
+            "MachineType": "Cisco Catalyst 29xxStack",
+            "SysName": "VAAx0010-swt.emea.amersports.int",
+            "Vendor": "Cisco"
+        },
+        {
+            "DNS": "",
+            "IPAddress": "10.35.10.12",
+            "MachineType": "Cisco Catalyst 29xxStack",
+            "SysName": "VAAx0012-swt.emea.amersports.int",
+            "Vendor": "Cisco"
+        },
+        {
+            "DNS": "",
+            "IPAddress": "10.35.10.13",
+            "MachineType": "Cisco Catalyst 29xxStack",
+            "SysName": "VAAx0013-swt.emea.amersports.int",
+            "Vendor": "Cisco"
+        },
+        {
+            "DNS": "",
+            "IPAddress": "10.35.10.14",
+            "MachineType": "Cisco Catalyst 29xxStack",
+            "SysName": "VAAx0014-swt.emea.amersports.int",
+            "Vendor": "Cisco"
+        },
+        {
+            "DNS": "",
+            "IPAddress": "10.35.10.15",
+            "MachineType": "Cisco Catalyst 29xxStack",
+            "SysName": "VAAx0015-swt.emea.amersports.int",
+            "Vendor": "Cisco"
+        },
+        {
+            "DNS": "",
+            "IPAddress": "10.35.10.30",
+            "MachineType": "Cisco Catalyst 29xxStack",
+            "SysName": "VAAx0030-swt.emea.amersports.int",
+            "Vendor": "Cisco"
+        },
+        {
+            "DNS": "",
+            "IPAddress": "10.35.10.31",
+            "MachineType": "Cisco Catalyst 29xxStack",
+            "SysName": "VAAx0031-swt.emea.amersports.int",
+            "Vendor": "Cisco"
+        },
+        {
+            "DNS": "",
+            "IPAddress": "10.35.10.32",
+            "MachineType": "Cisco Catalyst 29xxStack",
+            "SysName": "VAAx0032-swt.emea.amersports.int",
+            "Vendor": "Cisco"
+        },
+        {
+            "DNS": "",
+            "IPAddress": "10.35.10.33",
+            "MachineType": "Cisco Catalyst 29xxStack",
+            "SysName": "VAAx0033-swt.emea.amersports.int",
+            "Vendor": "Cisco"
+        },
+        {
+            "DNS": "",
+            "IPAddress": "10.35.10.34",
+            "MachineType": "Cisco Catalyst 29xxStack",
+            "SysName": "VAAx0034-swt.emea.amersports.int",
+            "Vendor": "Cisco"
+        },
+        {
+            "DNS": "",
+            "IPAddress": "10.35.10.35",
+            "MachineType": "Cisco Catalyst 29xxStack",
+            "SysName": "VAAx0035-swt.emea.amersports.int",
+            "Vendor": "Cisco"
+        },
+        {
+            "DNS": "",
+            "IPAddress": "10.35.10.36",
+            "MachineType": "Cisco Catalyst 29xxStack",
+            "SysName": "VAAx0036-swt.emea.amersports.int",
+            "Vendor": "Cisco"
+        },
+        {
+            "DNS": "",
+            "IPAddress": "10.35.10.37",
+            "MachineType": "Cisco Catalyst 29xxStack",
+            "SysName": "VAAx0037-swt.emea.amersports.int",
+            "Vendor": "Cisco"
+        },
+        {
+            "DNS": "",
+            "IPAddress": "10.35.10.200",
+            "MachineType": "Cisco Catalyst 29xxStack",
+            "SysName": "VAAx0200-swt.emea.amersports.int",
+            "Vendor": "Cisco"
+        },
+        {
+            "DNS": "",
+            "IPAddress": "10.35.72.1",
+            "MachineType": "Cisco Catalyst 36xx stack-able ethernet switch",
+            "SysName": "TREx0001-swt.emea.amersports.int",
+            "Vendor": "Cisco"
+        },
+        {
+            "DNS": "",
+            "IPAddress": "10.35.64.1",
+            "MachineType": "Cisco Catalyst 4500 L3",
+            "SysName": "HELX0001-swt.emea.amersports.int",
+            "Vendor": "Cisco"
+        },
+        {
+            "DNS": "",
+            "IPAddress": "10.35.64.2",
+            "MachineType": "Cisco Catalyst 29xxStack",
+            "SysName": "HELx0002-swt.emea.amersports.int",
+            "Vendor": "Cisco"
+        },
+        {
+            "DNS": "",
+            "IPAddress": "10.35.64.3",
+            "MachineType": "Cisco Catalyst 29xxStack",
+            "SysName": "HELx0003-swt.emea.amersports.int",
+            "Vendor": "Cisco"
+        },
+        {
+            "DNS": "",
+            "IPAddress": "10.35.64.4",
+            "MachineType": "Cisco Catalyst 29xxStack",
+            "SysName": "HELx0004-swt.emea.amersports.int",
+            "Vendor": "Cisco"
+        },
+        {
+            "DNS": "",
+            "IPAddress": "10.35.64.5",
+            "MachineType": "Cisco Catalyst 29xxStack",
+            "SysName": "HELx0005-swt.emea.amersports.int",
+            "Vendor": "Cisco"
+        },
+        {
+            "DNS": "",
+            "IPAddress": "10.35.64.6",
+            "MachineType": "Cisco Catalyst 29xxStack",
+            "SysName": "HELx0006-swt.emea.amersports.int",
+            "Vendor": "Cisco"
+        },
+        {
+            "DNS": "",
+            "IPAddress": "10.35.64.7",
+            "MachineType": "Cisco Catalyst 29xxStack",
+            "SysName": "HELx0007-swt.emea.amersports.int",
+            "Vendor": "Cisco"
+        },
+        {
+            "DNS": "",
+            "IPAddress": "10.35.64.8",
+            "MachineType": "Cisco Catalyst 29xxStack",
+            "SysName": "HELx0008-swt.emea.amersports.int",
+            "Vendor": "Cisco"
+        },
+        {
+            "DNS": "",
+            "IPAddress": "10.35.64.9",
+            "MachineType": "Cisco Catalyst 29xxStack",
+            "SysName": "HELx0009-swt.emea.amersports.int",
+            "Vendor": "Cisco"
+        },
+        {
+            "DNS": "",
+            "IPAddress": "10.49.10.1",
+            "MachineType": "Cisco Catalyst 36xx stack-able ethernet switch",
+            "SysName": "SCNX0001-swt.emea.amersports.int",
+            "Vendor": "Cisco"
+        },
+        {
+            "DNS": "",
+            "IPAddress": "10.49.10.2",
+            "MachineType": "Cisco Catalyst 29xxStack",
+            "SysName": "SCNX0002-swt.emea.amersports.int",
+            "Vendor": "Cisco"
+        },
+        {
+            "DNS": "",
+            "IPAddress": "10.49.10.3",
+            "MachineType": "Cisco Catalyst 29xxStack",
+            "SysName": "SCNX0003-swt.emea.amersports.int",
+            "Vendor": "Cisco"
+        },
+        {
+            "DNS": "",
+            "IPAddress": "10.49.10.4",
+            "MachineType": "Cisco Catalyst 29xxStack",
+            "SysName": "SCNX0004-swt.emea.amersports.int",
+            "Vendor": "Cisco"
+        },
+        {
+            "DNS": "",
+            "IPAddress": "10.49.10.5",
+            "MachineType": "Cisco Catalyst 29xxStack",
+            "SysName": "SCNX0005-swt.emea.amersports.int",
+            "Vendor": "Cisco"
+        },
+        {
+            "DNS": "",
+            "IPAddress": "10.49.10.6",
+            "MachineType": "Cisco Catalyst 29xxStack",
+            "SysName": "SCNX0006-swt.emea.amersports.int",
+            "Vendor": "Cisco"
+        },
+        {
+            "DNS": "",
+            "IPAddress": "10.49.10.8",
+            "MachineType": "Cisco Catalyst 29xxStack",
+            "SysName": "SCNX0008-swt.emea.amersports.int",
+            "Vendor": "Cisco"
+        },
+        {
+            "DNS": "",
+            "IPAddress": "10.49.10.51",
+            "MachineType": "Cisco Catalyst 295024 G",
+            "SysName": "SCNx0013-swt.emea.amersports.int",
+            "Vendor": "Cisco"
+        },
+        {
+            "DNS": "",
+            "IPAddress": "10.49.10.7",
+            "MachineType": "Cisco Catalyst 29xxStack",
+            "SysName": "SCNX0007-swt.emea.amersports.int",
+            "Vendor": "Cisco"
+        },
+        {
+            "DNS": "",
+            "IPAddress": "10.48.20.1",
+            "MachineType": "Cisco Catalyst 3850-24P-E Switch",
+            "SysName": "KRKx0003-swt.emea.amersports.int",
+            "Vendor": "Cisco"
+        },
+        {
+            "DNS": "",
+            "IPAddress": "10.48.20.4",
+            "MachineType": "Cisco Catalyst 29xxStack",
+            "SysName": "KRKx0004-swt.emea.amersports.int",
+            "Vendor": "Cisco"
+        },
+        {
+            "DNS": "",
+            "IPAddress": "10.48.8.1",
+            "MachineType": "Catalyst 37xx Stack",
+            "SysName": "KREx0001-swt.emea.amersports.int",
+            "Vendor": "Cisco"
+        },
+        {
+            "DNS": "",
+            "IPAddress": "10.43.255.1",
+            "MachineType": "Cisco",
+            "SysName": "ALTX0190.emea.amersports.int",
+            "Vendor": "Cisco"
+        },
+        {
+            "DNS": "",
+            "IPAddress": "10.43.255.200",
+            "MachineType": "Cisco Catalyst 29xxStack",
+            "SysName": "ALTx0200-swt.emea.amersports.int",
+            "Vendor": "Cisco"
+        },
+        {
+            "DNS": "",
+            "IPAddress": "10.43.255.201",
+            "MachineType": "Cisco Catalyst 29xxStack",
+            "SysName": "ALTx0201-swt.emea.amersports.int",
+            "Vendor": "Cisco"
+        },
+        {
+            "DNS": "",
+            "IPAddress": "10.43.255.202",
+            "MachineType": "Cisco Catalyst 29xxStack",
+            "SysName": "ALTx0202-swt.emea.amersports.int",
+            "Vendor": "Cisco"
+        },
+        {
+            "DNS": "",
+            "IPAddress": "10.43.255.203",
+            "MachineType": "Cisco Catalyst 29xxStack",
+            "SysName": "ALTx0203-swt.emea.amersports.int",
+            "Vendor": "Cisco"
+        },
+        {
+            "DNS": "",
+            "IPAddress": "10.43.255.204",
+            "MachineType": "Cisco Catalyst 29xxStack",
+            "SysName": "ALTx0204-swt.emea.amersports.int",
+            "Vendor": "Cisco"
+        },
+        {
+            "DNS": "",
+            "IPAddress": "10.43.255.206",
+            "MachineType": "Cisco Catalyst 29xxStack",
+            "SysName": "ALTx0206-swt.emea.amersports.int",
+            "Vendor": "Cisco"
+        },
+        {
+            "DNS": "",
+            "IPAddress": "10.43.255.208",
+            "MachineType": "Cisco Catalyst 29xxStack",
+            "SysName": "ALTx0208-swt.emea.amersports.int",
+            "Vendor": "Cisco"
+        },
+        {
+            "DNS": "",
+            "IPAddress": "10.43.255.209",
+            "MachineType": "Cisco Catalyst 29xxStack",
+            "SysName": "ALTx0209-swt.emea.amersports.int",
+            "Vendor": "Cisco"
+        },
+        {
+            "DNS": "",
+            "IPAddress": "10.43.255.210",
+            "MachineType": "Cisco Catalyst 29xxStack",
+            "SysName": "ALTx0210-swt.emea.amersports.int",
+            "Vendor": "Cisco"
+        },
+        {
+            "DNS": "",
+            "IPAddress": "10.43.255.211",
+            "MachineType": "Cisco Catalyst 29xxStack",
+            "SysName": "ALTx0211-swt.emea.amersports.int",
+            "Vendor": "Cisco"
+        },
+        {
+            "DNS": "",
+            "IPAddress": "10.43.255.212",
+            "MachineType": "Cisco Catalyst 29xxStack",
+            "SysName": "ALTx0212-swt.emea.amersports.int",
+            "Vendor": "Cisco"
+        },
+        {
+            "DNS": "",
+            "IPAddress": "10.43.255.213",
+            "MachineType": "Cisco Catalyst 29xxStack",
+            "SysName": "ALTx0213-swt.emea.amersports.int",
+            "Vendor": "Cisco"
+        },
+        {
+            "DNS": "",
+            "IPAddress": "10.43.255.214",
+            "MachineType": "Cisco Catalyst 29xxStack",
+            "SysName": "ALTx0214-swt.emea.amersports.int",
+            "Vendor": "Cisco"
+        },
+        {
+            "DNS": "",
+            "IPAddress": "10.43.255.216",
+            "MachineType": "Cisco Catalyst 29xxStack",
+            "SysName": "ALTx0216-swt.emea.amersports.int",
+            "Vendor": "Cisco"
+        },
+        {
+            "DNS": "",
+            "IPAddress": "10.43.255.217",
+            "MachineType": "Cisco Catalyst 29xxStack",
+            "SysName": "ALTx0217-swt.emea.amersports.int",
+            "Vendor": "Cisco"
+        },
+        {
+            "DNS": "",
+            "IPAddress": "10.43.255.218",
+            "MachineType": "Cisco Catalyst 29xxStack",
+            "SysName": "ALTx0218-swt.emea.amersports.int",
+            "Vendor": "Cisco"
+        },
+        {
+            "DNS": "",
+            "IPAddress": "10.43.255.219",
+            "MachineType": "Cisco Catalyst 29xxStack",
+            "SysName": "ALTx0219-swt.emea.amersports.int",
+            "Vendor": "Cisco"
+        },
+        {
+            "DNS": "",
+            "IPAddress": "10.43.255.220",
+            "MachineType": "Cisco Catalyst 29xxStack",
+            "SysName": "ALTx0220-swt.emea.amersports.int",
+            "Vendor": "Cisco"
+        },
+        {
+            "DNS": "",
+            "IPAddress": "10.43.255.221",
+            "MachineType": "Cisco Catalyst 29xxStack",
+            "SysName": "ALTx0221-swt.emea.amersports.int",
+            "Vendor": "Cisco"
+        },
+        {
+            "DNS": "",
+            "IPAddress": "10.43.255.222",
+            "MachineType": "Cisco Catalyst 29xxStack",
+            "SysName": "ALTx0222-swt.emea.amersports.int",
+            "Vendor": "Cisco"
+        },
+        {
+            "DNS": "",
+            "IPAddress": "10.43.255.223",
+            "MachineType": "Cisco Catalyst 29xxStack",
+            "SysName": "ALTX0223.emea.amersports.int",
+            "Vendor": "Cisco"
+        },
+        {
+            "DNS": "",
+            "IPAddress": "10.43.255.250",
+            "MachineType": "Cisco 5500 Series Wireless Controller",
+            "SysName": "ALTX0101",
+            "Vendor": "Cisco"
+        },
+        {
+            "DNS": "",
+            "IPAddress": "10.43.255.251",
+            "MachineType": "Cisco Catalyst 29xxStack",
+            "SysName": "ALTx0251-swt-DMZ.emea.amersports.int",
+            "Vendor": "Cisco"
+        },
+        {
+            "DNS": "",
+            "IPAddress": "10.43.16.13",
+            "MachineType": "Cisco Catalyst 2960-24TC-S",
+            "SysName": "GRDx0016-swt.emea.amersports.int",
+            "Vendor": "Cisco"
+        },
+        {
+            "DNS": "",
+            "IPAddress": "10.43.16.1",
+            "MachineType": "Cisco Catalyst 38xx stack",
+            "SysName": "GRDx0001-swt.emea.amersports.int",
+            "Vendor": "Cisco"
+        },
+        {
+            "DNS": "",
+            "IPAddress": "10.43.16.4",
+            "MachineType": "Cisco Catalyst 29xxStack",
+            "SysName": "GRDx0004-swt.emea.amersports.int",
+            "Vendor": "Cisco"
+        },
+        {
+            "DNS": "",
+            "IPAddress": "10.43.16.3",
+            "MachineType": "Cisco Catalyst 29xxStack",
+            "SysName": "GRDx0003-swt.emea.amersports.int",
+            "Vendor": "Cisco"
+        },
+        {
+            "DNS": "",
+            "IPAddress": "10.43.16.2",
+            "MachineType": "Cisco Catalyst 29xxStack",
+            "SysName": "GRDx0002-swt.emea.amersports.int",
+            "Vendor": "Cisco"
+        },
+        {
+            "DNS": "",
+            "IPAddress": "10.35.16.4",
+            "MachineType": "Cisco Catalyst 29xxStack",
+            "SysName": "VAAx0011-swt.emea.amersports.int",
+            "Vendor": "Cisco"
+        },
+        {
+            "DNS": "",
+            "IPAddress": "10.59.0.1",
+            "MachineType": "Cisco Catalyst 38xx stack",
+            "SysName": "PDVX0001.AmerSport",
+            "Vendor": "Cisco"
+        },
+        {
+            "DNS": "",
+            "IPAddress": "10.59.2.2",
+            "MachineType": "Cisco Catalyst 29xxStack",
+            "SysName": "PDVX0002.AmerSport",
+            "Vendor": "Cisco"
+        },
+        {
+            "DNS": "",
+            "IPAddress": "10.59.2.3",
+            "MachineType": "Cisco Catalyst 29xxStack",
+            "SysName": "PDVX0003.AmerSport",
+            "Vendor": "Cisco"
+        },
+        {
+            "DNS": "",
+            "IPAddress": "10.59.2.4",
+            "MachineType": "Cisco Catalyst 29xxStack",
+            "SysName": "PDVX0004.AmerSport",
+            "Vendor": "Cisco"
+        },
+        {
+            "DNS": "",
+            "IPAddress": "10.59.2.5",
+            "MachineType": "Cisco Catalyst 29xxStack",
+            "SysName": "PDVX0005.AmerSport",
+            "Vendor": "Cisco"
+        },
+        {
+            "DNS": "",
+            "IPAddress": "10.59.2.6",
+            "MachineType": "Cisco Catalyst 29xxStack",
+            "SysName": "PDVX0006.AmerSport",
+            "Vendor": "Cisco"
+        },
+        {
+            "DNS": "",
+            "IPAddress": "10.59.2.7",
+            "MachineType": "Cisco Catalyst 29xxStack",
+            "SysName": "PDVX0007.AmerSport",
+            "Vendor": "Cisco"
+        },
+        {
+            "DNS": "",
+            "IPAddress": "10.59.16.1",
+            "MachineType": "Cisco Catalyst 38xx stack",
+            "SysName": "PDVX0011.AmerSport",
+            "Vendor": "Cisco"
+        },
+        {
+            "DNS": "",
+            "IPAddress": "10.59.16.2",
+            "MachineType": "Cisco Catalyst 29xxStack",
+            "SysName": "PDVX0012.AmerSport",
+            "Vendor": "Cisco"
+        },
+        {
+            "DNS": "",
+            "IPAddress": "10.59.16.3",
+            "MachineType": "Cisco Catalyst 29xxStack",
+            "SysName": "PDVX0013.AmerSport",
+            "Vendor": "Cisco"
+        },
+        {
+            "DNS": "",
+            "IPAddress": "10.59.16.4",
+            "MachineType": "Cisco Catalyst 29xxStack",
+            "SysName": "PDVX0014.AmerSport",
+            "Vendor": "Cisco"
+        },
+        {
+            "DNS": "",
+            "IPAddress": "10.59.16.5",
+            "MachineType": "Cisco Catalyst 29xxStack",
+            "SysName": "PDVX0015.AmerSport",
+            "Vendor": "Cisco"
+        },
+        {
+            "DNS": "",
+            "IPAddress": "10.59.0.57",
+            "MachineType": "HP 1910-24G",
+            "SysName": "PDVX0057",
+            "Vendor": "H3C"
+        },
+        {
+            "DNS": "",
+            "IPAddress": "10.59.0.58",
+            "MachineType": "HP 1910-24G",
+            "SysName": "PDVX0058",
+            "Vendor": "H3C"
+        },
+        {
+            "DNS": "",
+            "IPAddress": "10.59.0.59",
+            "MachineType": "HP 1910-24G",
+            "SysName": "PDVX0059",
+            "Vendor": "H3C"
+        },
+        {
+            "DNS": "",
+            "IPAddress": "10.70.1.1",
+            "MachineType": "Cisco Catalyst 36xx stack-able ethernet switch",
+            "SysName": "DMEx0003-swt.emea.amersports.int",
+            "Vendor": "Cisco"
+        },
+        {
+            "DNS": "",
+            "IPAddress": "10.70.1.2",
+            "MachineType": "Cisco Catalyst 29xxStack",
+            "SysName": "DMEx0004-swt.emea.amersports.int",
+            "Vendor": "Cisco"
+        },
+        {
+            "DNS": "",
+            "IPAddress": "10.47.0.1",
+            "MachineType": "Cisco Catalyst 38xx stack",
+            "SysName": "OSLx0002-swt.emea.amersports.int",
+            "Vendor": "Cisco"
+        },
+        {
+            "DNS": "",
+            "IPAddress": "10.47.0.2",
+            "MachineType": "Cisco Catalyst 29xxStack",
+            "SysName": "OSLx0003-swt.emea.amersports.int",
+            "Vendor": "Cisco"
+        },
+        {
+            "DNS": "",
+            "IPAddress": "10.46.4.1",
+            "MachineType": "WS-C3560V2-24PS",
+            "SysName": "GOTx0007-swt.emea.amersports.int",
+            "Vendor": "Cisco"
+        },
+        {
+            "DNS": "",
+            "IPAddress": "10.46.4.3",
+            "MachineType": "Cisco Catalyst 2960-G8TC",
+            "SysName": "GOTX0009-swt.emea.amersports.int",
+            "Vendor": "Cisco"
+        },
+        {
+            "DNS": "",
+            "IPAddress": "10.46.4.2",
+            "MachineType": "Cisco Catalyst 2960-24LCS",
+            "SysName": "GOTx0008-swt.emea.amersports.int",
+            "Vendor": "Cisco"
+        },
+        {
+            "DNS": "",
+            "IPAddress": "10.34.0.2",
+            "MachineType": "Cisco Catalyst 36xx stack-able ethernet switch",
+            "SysName": "BCNx0007-swt.emea.amersports.int",
+            "Vendor": "Cisco"
+        },
+        {
+            "DNS": "",
+            "IPAddress": "10.33.8.1",
+            "MachineType": "Cisco Catalyst 36xx stack-able ethernet switch",
+            "SysName": "STTx0001-swt.emea.amersports.int",
+            "Vendor": "Cisco"
+        },
+        {
+            "DNS": "",
+            "IPAddress": "10.33.8.2",
+            "MachineType": "Cisco Catalyst 29xxStack",
+            "SysName": "STTx0002-swt.emea.amersports.int",
+            "Vendor": "Cisco"
+        },
+        {
+            "DNS": "",
+            "IPAddress": "10.41.12.2",
+            "MachineType": "Catalyst 37xx Stack",
+            "SysName": "GVAx0001-swt.emea.amersports.int",
+            "Vendor": "Cisco"
+        },
+        {
+            "DNS": "",
+            "IPAddress": "10.41.1.8",
+            "MachineType": "Cisco Catalyst 29xxStack",
+            "SysName": "ZRHx0002-swt.emea.amersports.int",
+            "Vendor": "Cisco"
+        },
+        {
+            "DNS": "",
+            "IPAddress": "10.41.1.9",
+            "MachineType": "Cisco Catalyst 29xxStack",
+            "SysName": "ZRHx0004-swt.emea.amersports.int",
+            "Vendor": "Cisco"
+        },
+        {
+            "DNS": "",
+            "IPAddress": "10.41.1.254",
+            "MachineType": "Cisco Catalyst 38xx stack",
+            "SysName": "ZRHx0003-swt.emea.amersports.int",
+            "Vendor": "Cisco"
+        },
+        {
+            "DNS": "",
+            "IPAddress": "10.45.65.2",
+            "MachineType": "2920-24G-PoE+ (J9727A)",
+            "SysName": "THMx0002-swt",
+            "Vendor": "HP"
+        },
+        {
+            "DNS": "",
+            "IPAddress": "10.45.0.1",
+            "MachineType": "Cisco Catalyst 38xx stack",
+            "SysName": "AALX0001-swt.emea.amersports.int",
+            "Vendor": "Cisco"
+        },
+        {
+            "DNS": "",
+            "IPAddress": "10.45.0.2",
+            "MachineType": "Cisco Catalyst 29xxStack",
+            "SysName": "AALx0005-swt.emea.amersports.int",
+            "Vendor": "Cisco"
+        },
+        {
+            "DNS": "",
+            "IPAddress": "10.34.0.10",
+            "MachineType": "Catalyst 37xx Stack",
+            "SysName": "BCNx0003-swt",
+            "Vendor": "Cisco"
+        },
+        {
+            "DNS": "",
+            "IPAddress": "10.97.0.11",
+            "MachineType": "Cisco Catalyst 29xxStack",
+            "SysName": "SDVx0002.emea.amersports.int",
+            "Vendor": "Cisco"
+        },
+        {
+            "DNS": "",
+            "IPAddress": "10.97.0.1",
+            "MachineType": "Catalyst 3560X 24 PoE",
+            "SysName": "SDVx0006.emea.amersports.int",
+            "Vendor": "Cisco"
+        },
+        {
+            "DNS": "",
+            "IPAddress": "10.39.1.51",
+            "MachineType": "HP 3800 Switch Stack",
+            "SysName": "VCEx0004_CoreSwitch",
+            "Vendor": "HP"
+        },
+        {
+            "DNS": "",
+            "IPAddress": "10.39.1.53",
+            "MachineType": "HP J9776A 2530-24G Switch",
+            "SysName": "VCEx0006_Finance",
+            "Vendor": "HP"
+        },
+        {
+            "DNS": "",
+            "IPAddress": "10.39.1.54",
+            "MachineType": "HP J9776A 2530-24G Switch",
+            "SysName": "VCEx0007_Marketing",
+            "Vendor": "HP"
+        },
+        {
+            "DNS": "",
+            "IPAddress": "10.39.1.56",
+            "MachineType": "HP J9776A 2530-24G Switch",
+            "SysName": "VCEx0009_Snowboard",
+            "Vendor": "HP"
+        },
+        {
+            "DNS": "",
+            "IPAddress": "10.39.1.58",
+            "MachineType": "HP J9776A 2530-24G Switch",
+            "SysName": "VCEx0008_Mavic",
+            "Vendor": "HP"
+        },
+        {
+            "DNS": "",
+            "IPAddress": "10.39.1.60",
+            "MachineType": "AP 105",
+            "SysName": "VCEx0017",
+            "Vendor": "Aruba Networks Inc"
+        },
+        {
+            "DNS": "",
+            "IPAddress": "10.33.157.2",
+            "MachineType": "Nexus 93180YC-EX",
+            "SysName": "NCYx0080-swt.emea.amersports.int",
+            "Vendor": "Cisco"
+        },
+        {
+            "DNS": "",
+            "IPAddress": "10.33.157.3",
+            "MachineType": "Nexus 93180YC-EX",
+            "SysName": "NCYx0083-swt.emea.amersports.int",
+            "Vendor": "Cisco"
+        },
+        {
+            "DNS": "",
+            "IPAddress": "10.33.157.10",
+            "MachineType": "Nexus 93180YC-EX",
+            "SysName": "NCYx0134-swt.emea.amersports.int",
+            "Vendor": "Cisco"
+        },
+        {
+            "DNS": "",
+            "IPAddress": "10.33.157.11",
+            "MachineType": "Nexus 93180YC-EX",
+            "SysName": "NCYx0133-swt.emea.amersports.int",
+            "Vendor": "Cisco"
+        },
+        {
+            "DNS": "",
+            "IPAddress": "10.31.1.11",
+            "MachineType": "WS-C3560V2-48PS",
+            "SysName": "AMSx0001-swt.emea.amersports.int",
+            "Vendor": "Cisco"
+        },
+        {
+            "DNS": "",
+            "IPAddress": "10.81.0.1",
+            "MachineType": "Cisco Catalyst 38xx stack",
+            "SysName": "TKYx0002-sw.ap.amersports.int",
+            "Vendor": "Cisco"
+        },
+        {
+            "DNS": "",
+            "IPAddress": "10.86.8.1",
+            "MachineType": "Cisco Catalyst 38xx stack",
+            "SysName": "PVGx0001-sw",
+            "Vendor": "Cisco"
+        },
+        {
+            "DNS": "",
+            "IPAddress": "10.86.8.2",
+            "MachineType": "Cisco",
+            "SysName": "PVGx0002-sw",
+            "Vendor": "Cisco"
+        },
+        {
+            "DNS": "",
+            "IPAddress": "10.86.8.3",
+            "MachineType": "Cisco",
+            "SysName": "PVGx0003-sw",
+            "Vendor": "Cisco"
+        },
+        {
+            "DNS": "",
+            "IPAddress": "10.86.4.99",
+            "MachineType": "Cisco Catalyst 3650-24PS-E",
+            "SysName": "SZXx0004-sw",
+            "Vendor": "Cisco"
+        },
+        {
+            "DNS": "",
+            "IPAddress": "10.82.0.3",
+            "MachineType": "Cisco Catalyst 29xxStack",
+            "SysName": "SELX0012",
+            "Vendor": "Cisco"
+        },
+        {
+            "DNS": "",
+            "IPAddress": "10.85.1.20",
+            "MachineType": "Cisco Catalyst 3650-24PS-E",
+            "SysName": "HKGX0003-sw-",
+            "Vendor": "Cisco"
+        },
+        {
+            "DNS": "",
+            "IPAddress": "10.85.1.21",
+            "MachineType": "Cisco Catalyst 29xxStack",
+            "SysName": "HKGx0007",
+            "Vendor": "Cisco"
+        },
+        {
+            "DNS": "",
+            "IPAddress": "10.88.1.99",
+            "MachineType": "Cisco Catalyst 3650-24TS-E",
+            "SysName": "KHHx0002",
+            "Vendor": "Cisco"
+        },
+        {
+            "DNS": "",
+            "IPAddress": "10.35.10.100",
+            "MachineType": "AP 105",
+            "SysName": "VAAx0079",
+            "Vendor": "Aruba Networks Inc"
+        },
+        {
+            "DNS": "",
+            "IPAddress": "10.44.24.40",
+            "MachineType": "AP 105",
+            "SysName": "LHRx0044",
+            "Vendor": "Aruba Networks Inc"
+        },
+        {
+            "DNS": "",
+            "IPAddress": "10.44.14.100",
+            "MachineType": "AP 105",
+            "SysName": "IRVX0024",
+            "Vendor": "Aruba Networks Inc"
+        },
+        {
+            "DNS": "",
+            "IPAddress": "10.48.20.30",
+            "MachineType": "AP 105",
+            "SysName": "KRKx0014",
+            "Vendor": "Aruba Networks Inc"
+        },
+        {
+            "DNS": "",
+            "IPAddress": "10.33.8.200",
+            "MachineType": "AP 105",
+            "SysName": "STTX0013",
+            "Vendor": "Aruba Networks Inc"
+        },
+        {
+            "DNS": "",
+            "IPAddress": "10.35.72.2",
+            "MachineType": "AP 105",
+            "SysName": "TREx0003",
+            "Vendor": "Aruba Networks Inc"
+        },
+        {
+            "DNS": "",
+            "IPAddress": "10.35.64.10",
+            "MachineType": "AP 105",
+            "SysName": "HELx0011",
+            "Vendor": "Aruba Networks Inc"
+        },
+        {
+            "DNS": "",
+            "IPAddress": "10.45.65.6",
+            "MachineType": "AP 105",
+            "SysName": "THMx0003",
+            "Vendor": "Aruba Networks Inc"
+        },
+        {
+            "DNS": "",
+            "IPAddress": "10.45.0.100",
+            "MachineType": "AP 105",
+            "SysName": "AALx0005",
+            "Vendor": "Aruba Networks Inc"
+        },
+        {
+            "DNS": "",
+            "IPAddress": "10.49.8.10",
+            "MachineType": "AP 105",
+            "SysName": "SCNX0057-IAP324",
+            "Vendor": "Aruba Networks Inc"
+        },
+        {
+            "DNS": "",
+            "IPAddress": "10.49.64.220",
+            "MachineType": "AP 105",
+            "SysName": "MUCx0231",
+            "Vendor": "Aruba Networks Inc"
+        },
+        {
+            "DNS": "",
+            "IPAddress": "10.59.16.30",
+            "MachineType": "AP 105",
+            "SysName": "PDVX0049/AP5/Rack3/F2",
+            "Vendor": "Aruba Networks Inc"
+        },
+        {
+            "DNS": "",
+            "IPAddress": "10.59.2.30",
+            "MachineType": "AP 105",
+            "SysName": "PDVX0017/AP1/Rack3/F1",
+            "Vendor": "Aruba Networks Inc"
+        },
+        {
+            "DNS": "",
+            "IPAddress": "10.43.16.60",
+            "MachineType": "AP 105",
+            "SysName": "GRDX0168",
+            "Vendor": "Aruba Networks Inc"
+        },
+        {
+            "DNS": "",
+            "IPAddress": "10.43.0.56",
+            "MachineType": "Aruba 7210 wireless controller",
+            "SysName": "Aruba7210-Amer-Master",
+            "Vendor": "Aruba Networks Inc"
+        },
+        {
+            "DNS": "",
+            "IPAddress": "10.70.1.40",
+            "MachineType": "AP 105",
+            "SysName": "DMEx0005",
+            "Vendor": "Aruba Networks Inc"
+        },
+        {
+            "DNS": "",
+            "IPAddress": "10.86.1.99",
+            "MachineType": "Cisco Catalyst 3650-24PS-E",
+            "SysName": "DGMx0001-sw",
+            "Vendor": "Cisco"
+        },
+        {
+            "DNS": "",
+            "IPAddress": "172.18.46.2",
+            "MachineType": "Cisco Catalyst 2960-Plus 24TC-S Switch",
+            "SysName": "STTx0012-swt.emea.amersports.int",
+            "Vendor": "Cisco"
+        },
+        {
+            "DNS": "",
+            "IPAddress": "172.18.44.134",
+            "MachineType": "Catalyst 37xx Stack",
+            "SysName": "LHRx0251-swt.emea.amersports.int",
+            "Vendor": "Cisco"
+        },
+        {
+            "DNS": "",
+            "IPAddress": "10.33.156.2",
+            "MachineType": "Cisco Catalyst 29xxStack",
+            "SysName": "MT2x0002.emea.amersports.int",
+            "Vendor": "Cisco"
+        },
+        {
+            "DNS": "",
+            "IPAddress": "172.21.5.220",
+            "MachineType": "Cisco Catalyst 29xxStack",
+            "SysName": "NCYx0020-swt.emea.amersports.int",
+            "Vendor": "Cisco"
+        },
+        {
+            "DNS": "",
+            "IPAddress": "172.21.5.221",
+            "MachineType": "Cisco Catalyst 29xxStack",
+            "SysName": "NCYx0046-swt.emea.amersports.int",
+            "Vendor": "Cisco"
+        },
+        {
+            "DNS": "2.48.16.172.rev.sfr.net",
+            "IPAddress": "172.16.48.2",
+            "MachineType": "Cisco Catalyst 29xxStack",
+            "SysName": "KRKx0005-swt.emea.amersports.int",
+            "Vendor": "Cisco"
+        },
+        {
+            "DNS": "",
+            "IPAddress": "10.33.159.32",
+            "MachineType": "Cisco Catalyst 29xxStack",
+            "SysName": "NCYX0048-swt.emea.amersports.int",
+            "Vendor": "Cisco"
+        },
+        {
+            "DNS": "",
+            "IPAddress": "10.46.32.1",
+            "MachineType": "Cisco Catalyst 38xx stack",
+            "SysName": "STOx0001-swt.emea.amersports.int",
+            "Vendor": "Cisco"
+        },
+        {
+            "DNS": "",
+            "IPAddress": "10.46.32.2",
+            "MachineType": "Cisco Catalyst 29xxStack",
+            "SysName": "STOx0002-swt.emea.amersports.int",
+            "Vendor": "Cisco"
+        },
+        {
+            "DNS": "",
+            "IPAddress": "10.46.32.3",
+            "MachineType": "Cisco Catalyst 29xxStack",
+            "SysName": "STOx0003-swt.emea.amersports.int",
+            "Vendor": "Cisco"
+        },
+        {
+            "DNS": "",
+            "IPAddress": "10.42.1.1",
+            "MachineType": "Cisco Catalyst 38xx stack",
+            "SysName": "PRGx0002-swt.emea.amersports.int",
+            "Vendor": "Cisco"
+        },
+        {
+            "DNS": "",
+            "IPAddress": "10.42.1.2",
+            "MachineType": "Cisco Catalyst 29xxStack",
+            "SysName": "PRGx0003-swt.emea.amersports.int",
+            "Vendor": "Cisco"
+        },
+        {
+            "DNS": "",
+            "IPAddress": "10.43.255.191",
+            "MachineType": "Cisco Catalyst 9300 Series Switch",
+            "SysName": "ALTX0191.emea.amersports.int",
+            "Vendor": "Cisco"
+        },
+        {
+            "DNS": "",
+            "IPAddress": "10.43.255.192",
+            "MachineType": "Cisco",
+            "SysName": "ALTX0192.emea.amersports.int",
+            "Vendor": "Cisco"
+        },
+        {
+            "DNS": "",
+            "IPAddress": "10.43.150.2",
+            "MachineType": "HP 2930F-24G-PoE+-4SFP (JL261A)",
+            "SysName": "SZPx0001",
+            "Vendor": "HP"
+        },
+        {
+            "DNS": "",
+            "IPAddress": "10.43.150.66",
+            "MachineType": "HP 2930F-24G-PoE+-4SFP (JL261A)",
+            "SysName": "SLDX0002",
+            "Vendor": "HP"
+        },
+        {
+            "DNS": "",
+            "IPAddress": "10.43.150.147",
+            "MachineType": "HP 2930F-24G-PoE+-4SFP (JL261A)",
+            "SysName": "INNx0002",
+            "Vendor": "HP"
+        },
+        {
+            "DNS": "",
+            "IPAddress": "10.43.150.148",
+            "MachineType": "HP 2930F-24G-PoE+-4SFP (JL261A)",
+            "SysName": "INNx0004",
+            "Vendor": "HP"
+        },
+        {
+            "DNS": "",
+            "IPAddress": "10.43.150.149",
+            "MachineType": "HP 2930F-24G-PoE+-4SFP (JL261A)",
+            "SysName": "INNx0003",
+            "Vendor": "HP"
+        },
+        {
+            "DNS": "",
+            "IPAddress": "10.43.150.194",
+            "MachineType": "HP 2930F-24G-PoE+-4SFP (JL261A)",
+            "SysName": "SZGx0002",
+            "Vendor": "HP"
+        },
+        {
+            "DNS": "",
+            "IPAddress": "10.33.72.2",
+            "MachineType": "HP J9137A Switch 2520-8-PoE",
+            "SysName": "ALVX0002",
+            "Vendor": "HP"
+        },
+        {
+            "DNS": "",
+            "IPAddress": "10.49.10.54",
+            "MachineType": "Cisco Catalyst 29xxStack",
+            "SysName": "SCNX0012-swt.emea.amersports.int",
+            "Vendor": "Cisco"
+        },
+        {
+            "DNS": "",
+            "IPAddress": "10.49.10.52",
+            "MachineType": "Cisco Catalyst 29xxStack",
+            "SysName": "SCNX0011-swt.emea.amersports.int",
+            "Vendor": "Cisco"
+        },
+        {
+            "DNS": "",
+            "IPAddress": "10.35.10.38",
+            "MachineType": "Cisco Catalyst 29xxStack",
+            "SysName": "VAAx0038-swt.emea.amersports.int",
+            "Vendor": "Cisco"
+        },
+        {
+            "DNS": "",
+            "IPAddress": "10.97.0.12",
+            "MachineType": "Cisco Catalyst 29xxStack",
+            "SysName": "SDVx0003.emea.amersports.int",
+            "Vendor": "Cisco"
+        },
+        {
+            "DNS": "",
+            "IPAddress": "10.82.0.1",
+            "MachineType": "Cisco Catalyst 3650-24PS-E",
+            "SysName": "SELX0001-Core",
+            "Vendor": "Cisco"
+        },
+        {
+            "DNS": "",
+            "IPAddress": "10.81.32.2",
+            "MachineType": "Cisco Catalyst 29xxStack",
+            "SysName": "TKYx0007-swt.ap.amersports.int",
+            "Vendor": "Cisco"
+        },
+        {
+            "DNS": "",
+            "IPAddress": "10.81.32.1",
+            "MachineType": "Catalyst 37xx Stack",
+            "SysName": "TKYx0001",
+            "Vendor": "Cisco"
+        },
+        {
+            "DNS": "",
+            "IPAddress": "10.88.8.31",
+            "MachineType": "Catalyst 3560X 24",
+            "SysName": "RMQx0006",
+            "Vendor": "Cisco"
+        },
+        {
+            "DNS": "",
+            "IPAddress": "10.88.8.104",
+            "MachineType": "Cisco Catalyst 36xx stack-able ethernet switch",
+            "SysName": "RMQx0005",
+            "Vendor": "Cisco"
+        },
+        {
+            "DNS": "",
+            "IPAddress": "10.88.8.99",
+            "MachineType": "Cisco Catalyst 3650-24PS-E",
+            "SysName": "RMQx0004-sw",
+            "Vendor": "Cisco"
+        },
+        {
+            "DNS": "",
+            "IPAddress": "10.33.159.2",
+            "MachineType": "Cisco Catalyst 9300 Series Switch",
+            "SysName": "NCYx0055-swt.emea.amersports.int",
+            "Vendor": "Cisco"
+        },
+        {
+            "DNS": "",
+            "IPAddress": "10.43.255.194",
+            "MachineType": "Cisco",
+            "SysName": "ALTX0194.emea.amersports.int",
+            "Vendor": "Cisco"
+        },
+        {
+            "DNS": "",
+            "IPAddress": "10.33.159.3",
+            "MachineType": "Cisco Catalyst 9300 Series Switch",
+            "SysName": "NCYx0058-swt.emea.amersports.int",
+            "Vendor": "Cisco"
+        },
+        {
+            "DNS": "",
+            "IPAddress": "10.33.159.4",
+            "MachineType": "Cisco Catalyst 9300 Series Switch",
+            "SysName": "NCYx0059-swt.emea.amersports.int",
+            "Vendor": "Cisco"
+        },
+        {
+            "DNS": "",
+            "IPAddress": "10.33.159.5",
+            "MachineType": "Cisco Catalyst 9300 Series Switch",
+            "SysName": "NCYx0060-swt.emea.amersports.int",
+            "Vendor": "Cisco"
+        },
+        {
+            "DNS": "",
+            "IPAddress": "10.97.4.1",
+            "MachineType": "HP 2930F-24G-PoE+-4SFP (JL261A)",
+            "SysName": "HVWx0001",
+            "Vendor": "HP"
+        },
+        {
+            "DNS": "",
+            "IPAddress": "10.47.0.3",
+            "MachineType": "Cisco Catalyst 29xxStack",
+            "SysName": "OSLx0004-swt.emea.amersports.int",
+            "Vendor": "Cisco"
+        },
+        {
+            "DNS": "",
+            "IPAddress": "10.47.3.2",
+            "MachineType": "Cisco Catalyst 29xxStack",
+            "SysName": "OSLx0005-swt.emea.amersports.int",
+            "Vendor": "Cisco"
+        },
+        {
+            "DNS": "",
+            "IPAddress": "10.43.255.224",
+            "MachineType": "Cisco",
+            "SysName": "ALTX0224.emea.amersports.int",
+            "Vendor": "Cisco"
+        },
+        {
+            "DNS": "",
+            "IPAddress": "10.33.159.8",
+            "MachineType": "Cisco",
+            "SysName": "NCYX0075-swt.emea.amersports.int",
+            "Vendor": "Cisco"
+        },
+        {
+            "DNS": "mucx0042.emea.amersports.int",
+            "IPAddress": "10.49.1.252",
+            "MachineType": "Cisco Catalyst 9300 Series Switch",
+            "SysName": "MUCx0005-swt.emea.amersports.int",
+            "Vendor": "Cisco"
+        },
+        {
+            "DNS": "",
+            "IPAddress": "10.49.1.253",
+            "MachineType": "Cisco Catalyst 9300 Series Switch",
+            "SysName": "MUCx0006-swt.emea.amersports.int",
+            "Vendor": "Cisco"
+        },
+        {
+            "DNS": "",
+            "IPAddress": "10.43.112.68",
+            "MachineType": "Cisco Catalyst 29xxStack",
+            "SysName": "ALTX1268-swt.emea.amersports.int",
+            "Vendor": "Cisco"
+        },
+        {
+            "DNS": "",
+            "IPAddress": "10.43.112.69",
+            "MachineType": "Cisco Catalyst 29xxStack",
+            "SysName": "ALTX1269-swt.emea.amersports.int",
+            "Vendor": "Cisco"
+        },
+        {
+            "DNS": "",
+            "IPAddress": "172.30.160.3",
+            "MachineType": "Cisco Catalyst 29xxStack",
+            "SysName": "HKGX0010.AP/HKG",
+            "Vendor": "Cisco"
+        },
+        {
+            "DNS": "",
+            "IPAddress": "10.86.8.15",
+            "MachineType": "Cisco",
+            "SysName": "PVGx0030-sw",
+            "Vendor": "Cisco"
+        },
+        {
+            "DNS": "",
+            "IPAddress": "10.43.255.225",
+            "MachineType": "Cisco",
+            "SysName": "ALTX0225.emea.amersports.int",
+            "Vendor": "Cisco"
+        },
+        {
+            "DNS": "",
+            "IPAddress": "10.33.159.6",
+            "MachineType": "Cisco",
+            "SysName": "NCYx0040-swt.emea.amersports.int",
+            "Vendor": "Cisco"
+        },
+        {
+            "DNS": "",
+            "IPAddress": "10.33.157.12",
+            "MachineType": "Cisco Catalyst 2960-8TC",
+            "SysName": "NCYX0049",
+            "Vendor": "Cisco"
+        },
+        {
+            "DNS": "",
+            "IPAddress": "10.33.159.7",
+            "MachineType": "Cisco",
+            "SysName": "NCYx0057-swt.emea.amersports.int",
+            "Vendor": "Cisco"
+        },
+        {
+            "DNS": "",
+            "IPAddress": "10.86.8.7",
+            "MachineType": "Catalyst 2960",
+            "SysName": "PVGx0023-swt.ap.amersports.int",
+            "Vendor": "Cisco"
+        },
+        {
+            "DNS": "",
+            "IPAddress": "10.38.64.2",
+            "MachineType": "Cisco Catalyst 2960-24TC-S",
+            "SysName": "TZIX0001",
+            "Vendor": "Cisco"
+        }
+    ]
+}
